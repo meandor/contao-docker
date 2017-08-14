@@ -1,2 +1,1 @@
-# contao-docker
-contao docker base image
+# Contao Docker Base Image
