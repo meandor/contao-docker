@@ -1,0 +1,1 @@
+FROM meandor:composer-nginx
