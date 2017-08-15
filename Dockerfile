@@ -1,1 +1,1 @@
-FROM meandor:composer-nginx
+FROM meandor/composer-nginx
